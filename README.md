@@ -1,4 +1,4 @@
-# Python_basics_assignment_1
+# Python_basics_Assignments
 
 
-i have given all the answers to the first assignment
+All the answers are given
